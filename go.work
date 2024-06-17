@@ -2,4 +2,14 @@ go 1.20
 
 use (
 ./BitWise_Operators
+./Arrays
+./Control_Statements
+./Files
+./LinkedList
+./Maps
+./Patterns
+./Queues
+./Slices
+./Stacks
+./Strings
 )
